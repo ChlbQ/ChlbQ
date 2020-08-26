@@ -1,8 +1,8 @@
 ### Siemka, jestem ChlebQ 👋
 
 
-<a href="https://discord.gg/p9z8M56">
-  <img align="left" alt="Mój discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://discord.gg/PVEpQnY">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
