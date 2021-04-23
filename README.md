@@ -5,7 +5,6 @@
 
 **Moje Projekty:**<br />
 - [Exehost.NET](https://exehost.net)
-- [MightyBot](https://discord.gg/QZ5jzZN), [Bot](https://mightybot.ml/add), [Strona](https://mightybot.ml)
 
 <br />
 
