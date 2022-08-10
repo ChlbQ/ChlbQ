@@ -1,16 +1,24 @@
-### [ChlebQ](https://chlebq.xyz)
-**Discord: ChlebQ™#1006**
-
-<br />
-
-**Moje Projekty:**<br />
-- [Exehost.NET](https://exehost.net)
-
-<br />
+## Yo, I'm [ChlebQ](https://chlebq.xyz) 👋
+Hobbyist programmer who enjoys coding in <code>C#</code> & <code>JavaScript</code>.<br>
+If you want to collaborate don't hesitate, just DM me on Discord or email me.
 
 
-<br />
+## Main projects:
+* [Potezniak Remastered](https://discord.gg/ZKQ2xcmqzn) (in-dev)
+* Multitool (in-dev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChlbQ&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff?count_private=true" alt="Statystyki" />
-</a>
+## Archived projects:
+* [Exehost.NET](https://github.com/orgs/Exehost-NET/)
+* [Mightybot](https://mightybot.xyz)
+
+## Technology and software:<br>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/debian/debian.png"></code>
+
+
+## Contact info:
+Discord: ChlebQ#1006<br>
+Email: contact@chlebq.xyz
