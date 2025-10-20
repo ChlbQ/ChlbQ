@@ -3,10 +3,6 @@ Hobbyist programmer who enjoys coding in <code>C#</code> & <code>JavaScript</cod
 If you want to collaborate don't hesitate, just DM me on Discord or email me.
 
 
-## Main projects:
-* [Potezniak Remastered](https://discord.gg/ZKQ2xcmqzn) (in-dev)
-* Multitool (in-dev)
-
 ## Archived projects:
 * [Exehost.NET](https://github.com/orgs/Exehost-NET/)
 * [Mightybot](https://mightybot.xyz)
@@ -20,5 +16,4 @@ If you want to collaborate don't hesitate, just DM me on Discord or email me.
 
 
 ## Contact info:
-Discord: ChlebQ#1006<br>
-Email: contact@chlebq.xyz
+Discord: chlebq<br>
